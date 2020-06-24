@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a consciences
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Regina Kiki Pina
+image: /img/screenshot-2019-07-03-at-15.00.11.png
+heading: Kunstiõpetaja portfoolio
+subheading: Kunstiõpetaja portfoolio
 mainpitch:
   title: Why Kaldi
   description: >
