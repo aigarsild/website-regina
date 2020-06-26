@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Regina Kiki Pina
+title: Regina Laanetu
 image: /img/screenshot-2019-07-03-at-15.00.11.png
-heading: Kunstiõpetaja portfoolio
-subheading: Kunstiõpetaja portfoolio
+heading: artwork and teaching
+subheading: artwork and teaching
 mainpitch:
   title: Why Kaldi
   description: >
