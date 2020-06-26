@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Regina Laanetu
-image: /img/screenshot-2019-07-03-at-15.00.11.png
+image: /img/img-4153.jpg
 heading: artwork and teaching
 subheading: artwork and teaching
 mainpitch:
